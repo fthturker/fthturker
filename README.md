@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=fthturker&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fthturker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/serefahmet21/java2022/blob/output/github-contribution-grid-snake.svg)
