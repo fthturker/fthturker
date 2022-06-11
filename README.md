@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=fthturker&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=fthturker&show_icons=true&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=yamangokhan&theme=chartreuse-dark&hide_border=false)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fthturker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
