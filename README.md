@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about JAVA
 - 📫 How to reach me: fthturker80@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
