@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about JAVA
 - 📫 How to reach me: fthturker80@gmail.com
 - 😄 Pronouns: ...
-- ![Snake animation](https://github.com/fthturker/fthturker/blob/output/github-contribution-grid-snake.svg)
+- ![Snake animation](https://github.com/yamangokhan/yamangokhan/blob/output/github-contribution-grid-snake.svg)
 
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
