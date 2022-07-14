@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Fatih+Turker;Welcome+to+my+Github+profile;I'm+learning+the+Software+Automation+Engineer;)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on SELENIUM
 - 🌱 I’m currently learning JAVA
