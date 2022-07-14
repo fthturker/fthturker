@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Merhaba Ben FATİH TÜRKER)](https://git.io/typing-svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SELENIUM
