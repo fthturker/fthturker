@@ -15,7 +15,7 @@
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
-
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="220" />
 
