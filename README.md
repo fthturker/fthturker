@@ -16,7 +16,7 @@
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAVI-BOOP&show_icons=true&theme=tokyonight&count_private=true&line_height=29)
+
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="220" />
 
 
