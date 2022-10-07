@@ -2,8 +2,8 @@
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Fatih+Turker;Welcome+to+my+Github+profile;I'm+learning+The+Software+Automation+Engineer;)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on SELENIUM
-- 🌱 I’m currently learning JAVA
+- 🔭 I’m currently working on SELENIUM WEB DRİVER and CUCUMBER BDD, JUNIT,TestNG
+- 🌱 I’m currently learning CORE JAVA , SQL and HTML
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about JAVA
